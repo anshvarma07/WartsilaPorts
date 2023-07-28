@@ -1,0 +1,10 @@
+img{
+    height: 200px;
+}
+
+.card{
+    box-shadow: 
+    0 2px 4px rgba(0, 0, 0, 0.2),   /* Bottom shadow */
+    0 4px 8px rgba(0, 0, 0, 0.1),   /* Lighter bottom shadow */
+    0 8px 16px rgba(0, 0, 0, 0.1); 
+}
